@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=snake
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ turnAtedge()
+comment2.text=\r\n\ check\ if\ at\ world\ edge\ and\ turn\ small\ amount.\r\n
+comment3.params=
+comment3.target=void\ trytoEatTurtle()
+comment3.text=\r\n\ check\ whether\ can\ see\ zulu\ and\ destroys\ it\r\n
+comment4.params=
+comment4.target=void\ urnAtLion()
+comment4.text=\r\n\ this\ makes\ the\ enemy\ be\ obstructed\ when\ encoutering\ a\ lion\r\n
+comment5.params=
+comment5.target=void\ die()
+comment5.text=\r\n\ this\ makes\ the\ enemy\ die\ when\ it\ meets\ the\ projectile\r\n
+numComments=6

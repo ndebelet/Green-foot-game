@@ -1,22 +1,11 @@
-Greenfoot version: 3.0.4
+                     TRICK THE TURTLE
 
-Information about Greenfoot
------------------------
-Information about Greenfoot, including system documentation is available at
+                   Michael K�lling, 2012
+                    
+Welcome to TRICK THE TURTLE.  This is a simple Greenfoot scenario, 
+designed to practice the basics of programming. 
 
-  http://www.greenfoot.org/
+Not much exists in this world yet. There are turtles - but that's it.
 
-Greenfoot usage data
---------------------
-When you use Greenfoot, some anonymous non-personal information (Greenfoot 
-version, Java version, Operating System, interface language, etc) is sent 
-to the Greenfoot maintainers, to help with development planning. This can 
-be disabled by adding a "greenfoot.uid=private" setting to your 
-greenfoot.properties file. 
-
-The Greenfoot Team
---------------
-Greenfoot is being developed by:
-University of Kent: Michael Kölling, Ian Utting, Davin McCall, Neil Brown, Amjad Altadmri, Fabio Hedayioglu
-
-The copyright (c) for Greenfoot is held by P. Henriksen and M. Kölling.
+This scenario is used for the Joy of Code video tutorial. 
+http://blogs.kent.ac.uk/mik/category/joy-of-code/
